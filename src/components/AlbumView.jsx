@@ -15,4 +15,4 @@ function AlbumView() {
 }
 
 
-export default AlbumView
+export default AlbumView;

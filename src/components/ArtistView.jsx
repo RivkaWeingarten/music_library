@@ -15,4 +15,4 @@ function ArtistView() {
 }
 
 
-export default ArtistView
+export default ArtistView;
